@@ -1,0 +1,82 @@
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Student403\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+H:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+H:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\TRPO шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\TRPO шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+H:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\TRPO шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\TRPO шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\TRPO шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\TRPO шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+E:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\TRPO шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Playfera.resources
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Playfera.resources
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vishiera.resources
+H:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Vishiera.resources
+E:\3, 4 к\ЗКИ шифры\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Table.resources
